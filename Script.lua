@@ -39,6 +39,6 @@ end)
 else
     game:GetService("StarterGui"):SetCore("SendNotification",{
         Title = "Prison Life Script",
-        Text = "Sorry, The Script"
+        Text = "Sorry, The Game is NOT Supported"
     })
 end
